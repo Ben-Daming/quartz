@@ -5,7 +5,7 @@ tags:
   - "#AI"
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+
 环境：
 `python3 -m pipenv shell`
 \^D退出shell

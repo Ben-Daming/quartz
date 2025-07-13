@@ -4,8 +4,6 @@ draft: false
 tags:
   - "#basicTools"
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
 
 # Git
 command line is the most available,unlimited
